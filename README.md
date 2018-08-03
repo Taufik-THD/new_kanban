@@ -1,1 +1,3 @@
-# new_kanban
+# Kanban
+
+https://kanban-dee38.firebaseapp.com/
